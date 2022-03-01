@@ -14,5 +14,7 @@ class MainActivity : AppCompatActivity() {
         //o joao adicionou o metodo c
 
         // adicionei o metodo d
+
+        //teste funcionalidade de requisito 10
     }
 }
