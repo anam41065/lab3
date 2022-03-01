@@ -17,6 +17,6 @@ class MainActivity : AppCompatActivity() {
 
         //teste funcionalidade de requisito 10
         //teste funcionalidade de requisito 10 - versão 1
-
+        //teste funcionalidade de requisito 10 - versão 2
     }
 }
